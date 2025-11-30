@@ -1,0 +1,6 @@
+transaction_id,product_id,department,units_sold,revenue
+T011,101,Electronics,8,2000.00
+T012,106,Furniture,3,1200.00
+T013,108,Clothing,20,1000.00
+T014,104,Toys,4,200.00
+T015,105,Electronics,2,600.00
