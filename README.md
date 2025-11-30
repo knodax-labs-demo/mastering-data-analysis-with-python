@@ -2,6 +2,8 @@
 
 This repository contains source code from the book ***Mastering Data Analysis With Python*** by **KnoDAX**.
 
+**Note:This is a read-only repository. External pull requests and contributions are not accepted.**
+
 ---
 
 ## 📘 **About the Book**
