@@ -72,7 +72,7 @@ Large datasets are either:
 ---
 
 ##📌 **Contributing Policy**
-This repository is provided as companion material for the book OpenAI in Action (https://www.amazon.com/dp/B0DQB8XXGJ). At this time, external pull requests, comments, and contributions are not being accepted. If you notice an issue in the code or documentation, you may:
+This repository is provided as companion material for the book Mastering Data Analysis With Python ([https://www.amazon.com/dp/B0DQB8XXGJ](https://www.amazon.com/dp/B0F3W9B5M5)). At this time, external pull requests, comments, and contributions are not being accepted. If you notice an issue in the code or documentation, you may:
 Submit feedback through the book’s support channels (YouTube, email, etc.)
 Or report mistakes through the appropriate contact listed in the book
 To keep this repository clean and stable for readers, all updates are made internally by the KnoDAX team.
