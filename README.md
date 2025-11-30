@@ -34,7 +34,7 @@ This repository uses a rich ecosystem of Python data tools, including:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KnoDAX/mastering-data-analysis-with-python.git
+   git clone https://github.com/knodax-labs-demo/mastering-data-analysis-with-python.git
    ```
 2. Install dependencies:
 
