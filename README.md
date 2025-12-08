@@ -1,3 +1,10 @@
+
+<img width="1280" height="640" alt="mastering-data-analysis-with-python" src="https://github.com/user-attachments/assets/d0a82a29-fcc2-4ef0-88aa-376c994ffaef" />
+
+<p align="center">
+⭐ If this repo helps you, please give it a star! ⭐
+</p>
+
 # **Mastering Data Analysis With Python — Companion Code Repository**
 
 This repository contains source code from the book ***Mastering Data Analysis With Python*** by **KnoDAX**.
